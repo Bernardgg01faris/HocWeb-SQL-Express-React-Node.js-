@@ -36,3 +36,7 @@ huong su dung
 
     <table></table>
     <li></li>
+
+id va class
+    trong thuc te thuong su dung class it su dung id
+
